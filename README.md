@@ -1,6 +1,6 @@
 # AI-Zewail-City-Map-simulation
 This is an Artificial Intelligence course project. It simulates a Zewail City map and uses the following search algorithms to navigate from one point to another inside the map.
-In this project, We folllow these steps:
+In this project, We folllowed these steps:
 1. Define the abstraction of the problem using the state space representation, successor
 function, set of actions.
 2. Find the best route using the following uninformed search algorithms
